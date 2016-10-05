@@ -18,5 +18,6 @@ public class VariableTester {
         
         VariableTester test = new VariableTester();
         
+        // This comment was added in the develop branch
     }
 }
