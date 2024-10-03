@@ -5,7 +5,7 @@ public class VariablePractice {
  
     public static void main(String[] args) {
         int wholeNum;
-        double bankBalance = 1000;
+        double bankBalance = 1001;
         String empty = "";
         String myAddress = "1 Yonge St";
         long population = 30000000;
